@@ -13,8 +13,8 @@ public class Exercise_1 {
 		int num1 = 23452;
 		int num2 = 45363;
 		
-		System.out.println("Value of num1 = " + num1);
-		System.out.println("Value of num2 = " + num2);
+		System.out.println("Value of num1 = " + num1 + ";");
+		System.out.println("Value of num2 = " + num2 + ".");
 	}
 
 }

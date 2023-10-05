@@ -13,8 +13,16 @@ public class Exercise_1 {
 		int num1 = 23452;
 		int num2 = 45363;
 		
-		System.out.println("Value of num1 = " + num1);
-		System.out.println("Value of num2 = " + num2);
+		int a = 8;
+		int b = 3;
+		
+		double div = (double) a / b;
+		
+//		System.out.println("value of div is: " + div);
+//		
+//		System.out.println("Value of num1 = " + num1);
+//		System.out.println("Value of num2 = " + num2);
+		System.out.println(2 + "2");
 	}
 
 }
